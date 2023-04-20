@@ -1,3 +1,20 @@
+# Expense tracker React
+
+This repository is based on tutorial 
+
+This project is a React app using hooks (useState, useContext, useReducer) and the context API.
+
+https://www.youtube.com/watch?v=XuFDcZABiDQ
+Traversy Media
+
+<p align="center">
+  <img width="30%" height="30%" src="https://github.com/gerasoa/expense-tracker-react/blob/master/src/Docs/expense-tracker-react.png?raw=true">
+</p>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
